@@ -1,2 +1,3 @@
 # openbound-online
-Repo for OO news commits https://whitewatt.itch.io/openbound-online
+What is Openbound Online?
+Info to add later...
